@@ -1,5 +1,7 @@
 # RCB-IPL-TEAM-PERFORMANCE-PROJECT-MySQL
-Leveraged SQL for in-depth IPL data analysis, focusing on Royal Challengers Bangalore’s performance, player efficiency, and team strategy optimization. Conducted season-wise, venue-based, and player-level analysis to uncover trends in wins, scoring patterns, and home-ground advantage. Extracted actionable insights to guide player selection, improve team balance, and enhance performance consistency.
+Leveraged SQL for in-depth IPL data analysis, focusing on Royal Challengers Bangalore’s performance, player efficiency, and team strategy optimization. 
+Conducted season-wise, venue-based, and player-level analysis to uncover trends in wins, scoring patterns, and home-ground advantage. 
+Extracted actionable insights to guide player selection, improve team balance, and enhance performance consistency.
 
 
 <img width="700" height="304" alt="2a" src="https://github.com/user-attachments/assets/f5a9b19e-e368-40ca-b21c-e5e273ec55bf" />
